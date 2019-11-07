@@ -1,2 +1,2 @@
 MapReduce Examples
-https://pixipanda.com/
+https://pixipanda.com/mapreduce-anatomy/
